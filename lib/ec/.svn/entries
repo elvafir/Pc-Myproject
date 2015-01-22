@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="48016"
+   name=""
+   committed-date="2014-12-19T04:58:00.355769Z"
+   url="https://svn.baidu.com/sys/atm/branches/um/atm-276_BRANCH/resources/um_report/js/lib/ec"
+   last-author="huxiaoyun"
+   kind="dir"
+   uuid="12dec937-fb2f-40d7-9ff2-eb1d9331cf7c"
+   revision="48058"/>
+<entry
+   committed-rev="48016"
+   name="config.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="eb50a2e24c08cc5cd168f154708765a0"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   name="chart"
+   kind="dir"/>
+<entry
+   name="component"
+   kind="dir"/>
+<entry
+   name="theme"
+   kind="dir"/>
+<entry
+   committed-rev="48016"
+   name="echarts.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="128b6e721b764824d7b8f0be2ee4c0a0"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   name="data"
+   kind="dir"/>
+<entry
+   committed-rev="48016"
+   name="chart.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="d777bb20ea6d20348ccfe7a427322b78"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   name="layout"
+   kind="dir"/>
+<entry
+   name="util"
+   kind="dir"/>
+<entry
+   committed-rev="48016"
+   name="component.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="03c6fd8e2aab3b808a6f66307313c598"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+</wc-entries>

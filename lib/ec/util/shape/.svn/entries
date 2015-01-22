@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="48016"
+   name=""
+   committed-date="2014-12-19T04:58:00.355769Z"
+   url="https://svn.baidu.com/sys/atm/branches/um/atm-276_BRANCH/resources/um_report/js/lib/ec/util/shape"
+   last-author="huxiaoyun"
+   kind="dir"
+   uuid="12dec937-fb2f-40d7-9ff2-eb1d9331cf7c"
+   revision="48058"/>
+<entry
+   committed-rev="48016"
+   name="Symbol.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="6e3e5f7ea2dec5216b85dbed5074b881"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="Candle.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="e8165ec3bbca12b2ffc01880afc71754"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="Icon.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="a9bf4aab1c9625955254e40fbc122061"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="Cross.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="b4bd9b5e9de4cf9b7c3320acada0f16b"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="GaugePointer.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="c3effd3af9da1ed6bd92bcdf32101444"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="Ribbon.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="5b6bf685ae465233eb90ea2c45d93a46"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="HalfSmoothPolygon.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="aef128179bf9b37ebbcf735994996e5b"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="Chain.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="65975424c99245f7824387c3460bad30"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="MarkLine.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="aa8fe7c079a7d763b677e7dffedf99eb"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="HandlePolygon.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="ccabd05f6a925510277bf4706cffaf62"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="normalIsCover.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="3059747268584867628cd7f960f4d46a"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+</wc-entries>

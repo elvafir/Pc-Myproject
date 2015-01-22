@@ -1,0 +1,360 @@
+*
+{
+	padding:0px;
+	margin: 0px;
+}
+body
+{
+	font-family: "微软雅黑";
+	position: relative;
+}
+
+header
+{
+	padding: 30px;
+	text-align: center;
+	font-size: 25px;
+	color: white;
+	background-color: #FF3C69;
+}
+
+section
+{
+	display: flex;
+	display:-ms-inline-flexbox;
+	flex-flow:row;
+	-ms-flex-direction:row;
+	/*-ms-flex-wrap:none;*/
+	/*overflow: hidden;*/
+	height:600px;
+	div.barinfo
+	{
+		width:300px;
+		height: 100%;
+		background-color: #FFF5DF;
+		li
+		{
+			border: 1px solid rgba(231, 222, 232, 0.6);
+			text-align: center;
+			padding: 10px;
+			position: relative;
+			span{
+				color:#FF3C69;
+			}
+			a{
+				text-decoration: none;
+				color:white;
+			}
+			dl{
+				position: absolute;
+				left:300px;
+				top:0px;
+				width:200px;
+				border:1px solid white;
+				border-radius: 15px;
+				background-color: #FF3C69;
+				color:white;
+				z-index: 100;
+				dt{
+					border-bottom: 1px solid white; 
+					padding: 10px;
+				}
+				dd{
+					padding: 10px;
+				}
+				dd:nth-child(2n+1)
+				{
+					border-bottom: 1px dashed white;
+				}
+			}
+		}
+	}
+	div.maininfo
+	{
+		-webkit-flex:1;
+		-ms-flex:1;
+		/*margin: 0 auto;
+		display: flex;
+		flex-flow:row;
+		-webkit-box-pack: center;
+		-ms-flex-pack: center;
+		-webkit-justify-content: center;
+		justify-content: center;
+		-webkit-box-align: center;
+		-ms-flex-align: center;
+		-webkit-align-items: center;
+		align-items: center;*/
+		width:100%;
+		height: 100%;
+		background:url("./images/indexbg.jpg") no-repeat;
+		background-size: 100% 100%;
+		div.textinfo
+		{
+			width: 900px;
+			height: 212px;
+			position: relative;
+			margin: 0 auto;
+			ul.textlist
+			{
+				text-align: center;
+				
+				width: 900px;
+				li
+				{
+					float: left;
+					list-style-type: none;
+					width: 188px;
+					height: 188px;
+					background-image: url("./images/lianmeng-round.png");
+					background-repeat: no-repeat;
+					color:rgb(255, 0, 155);
+					position: absolute;
+					div.notification
+					{
+						position: absolute;
+						top: 65px;
+						left:35px;
+						text-align: center;
+				        p{
+				        	text-align: center;
+				        	font-weight: bold;
+				        	color:#ff3c3c;
+				        	margin-bottom: 8px;
+				        }
+						a{
+							display: inline-block;
+							text-decoration: none;
+							border: 1px solid #bf2e2e;
+							width: 80px;
+							color:white;
+							background-color: #ff3c3c;
+							padding: 8px;
+							border-radius: 5px;
+							font-weight: bold;
+						}
+					}
+				}
+				li.text-one
+				{
+					top: 28px;
+					left: 27px;
+				}
+				li.text-two
+				{
+					top: 28px;
+					left: 169px;
+				}
+				li.text-three
+				{
+					top: 28px;
+					left: 298px;
+				}
+				li.text-four
+				{
+					top: 28px;
+					left: 414px;
+				}
+				li.text-five
+				{
+					top: 28px;
+					left: 548px;
+				}
+				li.text-six
+				{
+					top: 28px;
+					left: 670px;
+				}
+			}
+		}
+		div.imageinfo
+		{
+			width:900px;
+			height:225px;
+			background: url("./images/lianmeng-box.png") center center no-repeat;
+			background-size: 100% 55%;
+			margin: 0 auto;
+		/*	padding: 0 126px;*/
+			div.subimageinfo
+			{
+				padding: 0 48px;
+				ul.imagelist
+			    {
+			    	text-align: center;
+					/*padding: 0 35px;*/
+			    	li
+					{
+						float:left;
+						list-style-type: none;
+						width:100px;
+						height: 110px;
+						margin: 0 15px;
+						a{
+							display: block;
+							height: 100%;
+							background-image: url("./images/lianmeng-person.png");
+							-webkit-transition-duration:1s;
+							-webkit-transition-property: transform;
+							-webkit-transform-origin: 0 bottom;
+						}
+						div.personImage
+						{
+							background: url("./images/lianmeng-round.png") center bottom no-repeat;
+						}
+						a.image-one
+						{
+							background-position: 0 0;
+							&:hover{
+								background-position: 0 110px;
+								transform: scale(1.1);
+							}
+						}
+						a.image-two
+						{
+							background-position: 100px 0;
+							&:hover{
+								background-position: 100px 110px;
+								transform: scale(1.1);
+							}
+						}
+						a.image-three
+						{
+							background-position: 254px 0;
+							&:hover{
+								background-position: 254px 110px;
+								transform: scale(1.1);
+							}
+						}
+						a.image-four
+						{
+							background-position: 404px 0;
+							&:hover{
+								background-position: 404px 110px;
+								transform: scale(1.1);
+							}
+						}
+						a.image-five
+						{
+							background-position: 559px 0;
+							&:hover{
+								background-position: 559px 110px;
+								transform: scale(1.1);
+							}
+						}
+						a.image-six
+						{
+							background-position: -150px 0;
+							&:hover{
+								background-position: -150px 110px;
+								transform: scale(1.1);
+							}
+						}
+						
+					}
+		    	}
+			}
+		    
+			
+		}
+
+		
+		/*div
+		{
+			-webkit-flex:1;
+			position: relative;
+			margin: 20px 20px;
+			border: 1px solid rgb(194, 17, 232);
+			text-align: center;
+			padding: 30px;
+			border-radius: 10px;
+			background-color: rgba(194, 17, 232,0.6);
+			height: 21px;
+			a
+			{
+				text-decoration: none;
+				color: white;
+				font-weight: bold;
+				cursor: pointer;
+			}
+		}*/
+	}
+}
+
+.Hide
+{
+	display: none;
+}
+
+.showinfo
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform:translate(-50%,-50%);
+}
+.hoverInfo
+{
+	background-color: rgba(146, 82, 160, 0.5);
+	color: white;
+}
+
+div.subcontent
+{
+	position: absolute;
+	width: 800px;
+	z-index: 1000;
+
+	header.title
+	{
+		text-align: center;
+		background-color: rgba(26, 173, 123, 0.5);
+		border: 1px solid rgba(17, 129, 31, 0.5);
+		color: white;
+		padding: 15px;
+	}
+	section.content
+	{
+		width: 800px;
+		height: 600px;
+		border: 1px solid rgba(17, 129, 31, 0.5);
+	}
+	a.btn
+	{
+		margin: 10px auto;
+		display: block;
+		text-decoration: none;
+		width: 80px;
+		padding: 8px;
+		text-align: center;
+		border: 2px solid rgba(88, 98, 95, 0.5);
+		background-color:rgba(17, 129, 31, 0.5); 
+		color:white;
+	}
+} 
+.clearfix:after 
+{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+@-webkit-keyframes UpPage
+{
+      0% {
+         top:100%;
+      }
+      20% {
+         top:80%;
+      }
+      40% {
+         top:60%;
+      }
+      60% {
+         top:40%;
+      }
+     100% {
+         top:20%;
+      }
+}

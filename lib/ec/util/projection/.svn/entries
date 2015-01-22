@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="48016"
+   name=""
+   committed-date="2014-12-19T04:58:00.355769Z"
+   url="https://svn.baidu.com/sys/atm/branches/um/atm-276_BRANCH/resources/um_report/js/lib/ec/util/projection"
+   last-author="huxiaoyun"
+   kind="dir"
+   uuid="12dec937-fb2f-40d7-9ff2-eb1d9331cf7c"
+   revision="48058"/>
+<entry
+   committed-rev="48016"
+   name="albers.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="829e48d1d60bb01e5867fe0faa0a8353"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="normal.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="9ef43529a89e425a685f80160bd48324"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="mercator.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="36d7db50b2d7af8e79ebdf7d594c62c4"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="svg.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="590d3d95e9b7841e9e53c934b96af1ca"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+</wc-entries>

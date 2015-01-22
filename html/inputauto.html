@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>canvas</title>
+    <link rel="stylesheet/less" type="text/css" href="../less/input.less">
+    <script src="../lib/less.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        less.watch();
+    </script>
+</head>
+<body>
+  <div class='header'>
+  	  前端组件平台
+  </div>
+  <div class="mainarea">
+  	 <div class='info Hide clearfix'>
+  	 	<div class='info-image'>
+  	 		<img src="../less/images/maidou.jpg">
+  	 	</div>
+  	 	<div class='info-text'>
+  	 		<div class='weixing'>
+  	 			<i class='iconleft'></i>
+  	 			<p class='notifcation'>
+  	 				这是一个神马前端组件
+  	 			</p>
+  	 		</div>
+  	 	</div>
+  	 </div>
+  	 <div class='info Hide clearfix'>
+  	 	<div class='info-image-right'>
+  	 		<img src="../less/images/maitouright.jpg">
+  	 	</div>
+  	 	<div class='info-text-right'>
+  	 		<div class='weixing'>
+  	 			<i class='iconright'></i>
+  	 			<p class='notifcation'>
+  	 				这是一个关于Input标签自动检索内容的前端组件
+  	 			</p>
+  	 		</div>
+  	 	</div>
+  	 </div>
+  	 <div class='info Hide clearfix'>
+  	 	<div class='info-image'>
+  	 		<img src="../less/images/maidou.jpg">
+  	 	</div>
+  	 	<div class='info-text'>
+  	 		<div class='weixing'>
+  	 			<i class='iconleft'></i>
+  	 			<p class='notifcation'>
+  	 				来开始这个组件的参数程序样例学习
+  	 			</p>
+  	 		</div>
+  	 	</div>
+  	 </div>
+
+  	 <div class='content Hide'>
+  	 	<header class='title'>Select组件参数</header>
+  	 	<div class='info'>
+  	 		<p>1.需要利用Jquery获取Input标签的对象</p>
+  	 		<p>2.需要利用Jquery获取显示动态内容的对象</p>
+  	 		<p>3.初始化只需new一个对象，形如：<br>
+  	 		<pre>
+  	 		new Select(
+  	 		{
+  	 			"inputstyle":$('input.inputstyle'),
+				"showinfostyle":$('ul.info')
+			});
+  	 		</pre></p>
+  	 	</div>
+  	 </div>
+  	 <div class='content Hide'>
+  	 	<header class='title'>实例展示</header>
+	  	<div style="padding:10px;">
+		    <input placeholder='输入参数' class='inputstyle'>
+		    <ul class='info-content Hide'>
+		    </ul>
+	    </div>
+	    <div class='info'>
+  	 		<p>1.此组件首先对DOM初始化</p>
+  	 		<p>2.再对组件显示内容排序</p>
+  	 		<p>3.对DOM绑定事件</p>
+  	 	</div>
+  	 </div>
+  </div>
+  <script src="../lib/jquery.min.js" type="text/javascript"></script>
+  <script src="../data/data.js" type="text/javascript"></script>
+  <script src="../lib/mylib/Select.js" type="text/javascript"></script>
+  <script src="../js/mylib.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  function showchat(that,type)
+  {
+  		$(that).removeClass('Hide');
+  		if(type=='pic')
+  		{
+  			$(that).find('p.notifcation').css(
+			{
+				"-webkit-animation-name":"progressbar",
+				"-webkit-animation-duration": "1.5s",
+	     		"-webkit-animation-timing-function": "linear"
+			});
+  		}
+  		else if(type=='text')
+  		{
+  			$(that).css(
+			{
+				"-webkit-animation-name":"upbar",
+				"-webkit-animation-duration": "1.5s",
+	     		"-webkit-animation-timing-function": "linear"
+			});
+  		}
+  		
+  }
+
+function showText()
+{
+	setTimeout(function()
+	{
+		$('div.content').each(function(index)
+		{
+			if(index==0)
+			{
+				var _this=this;
+			  	showchat(_this,"pic");
+			}
+			else if(index==1)
+			{
+				var _this=this;
+				setTimeout(function(){showchat(_this,"pic");},1000);
+			}
+		});
+	},1000);
+	
+}	
+  function showpage()
+  {
+  		$('div.info').each(function(index)
+		{
+		    if(index==0)
+		  	{
+		  		showchat(this,'pic');
+		  	}
+		  	else if(index==1)
+		  	{
+		  		var _this=this;
+		  		setTimeout(function(){showchat(_this,"pic");},2000);
+		  	}
+		  	else if(index==2)
+		  	{
+		  		var _this=this;
+		  		setTimeout(function(){showchat(_this,'pic');showText();},4000);
+		  		
+		  	}	
+		 }); 
+  }
+
+  $(document).ready(function($) {
+  	// Stuff to do as soon as the DOM is ready;
+  	showpage();
+  });
+  </script>
+</body>

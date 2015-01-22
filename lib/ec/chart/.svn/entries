@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="48016"
+   name=""
+   committed-date="2014-12-19T04:58:00.355769Z"
+   url="https://svn.baidu.com/sys/atm/branches/um/atm-276_BRANCH/resources/um_report/js/lib/ec/chart"
+   last-author="huxiaoyun"
+   kind="dir"
+   uuid="12dec937-fb2f-40d7-9ff2-eb1d9331cf7c"
+   revision="48058"/>
+<entry
+   committed-rev="48016"
+   name="bar.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="0a9ee6138f1a52f5ce7d8a8728465ade"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="scatter.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="d3e5d1dc4199c7fd9afcc7fee2f716f5"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="funnel.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="2ad3db207a32468073fab5e2772d0fde"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="line.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="f421854af792bba543dc6199609e2613"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="gauge.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="b2e3a3055898e11ff788eaf0f480981e"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="eventRiver.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="580f275992adab2a8fb38b0da69a1618"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="radar.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="1640bb094b9f8fc93cf4d8dcbe4e18c7"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="k.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="752877e6e88b5423e5b806cab461301f"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="map.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="7d6ad7533d935caffa744f002ccacbd5"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="pie.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="3ffadb4c497c6c739837740e37061493"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="force.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="79517e33d00ecab79ed0003bcd3652c7"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="chord.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="12c2163459e4b7788307356d7ee17d18"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+</wc-entries>

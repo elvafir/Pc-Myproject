@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="48016"
+   name=""
+   committed-date="2014-12-19T04:58:00.355769Z"
+   url="https://svn.baidu.com/sys/atm/branches/um/atm-276_BRANCH/resources/um_report/js/lib/ec/theme"
+   last-author="huxiaoyun"
+   kind="dir"
+   uuid="12dec937-fb2f-40d7-9ff2-eb1d9331cf7c"
+   revision="48058"/>
+<entry
+   committed-rev="48016"
+   name="default.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="21f960880ff4d312c44d880bf6f145a5"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+</wc-entries>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="48016"
+   name=""
+   committed-date="2014-12-19T04:58:00.355769Z"
+   url="https://svn.baidu.com/sys/atm/branches/um/atm-276_BRANCH/resources/um_report/js/lib/ec/util/mapData"
+   last-author="huxiaoyun"
+   kind="dir"
+   uuid="12dec937-fb2f-40d7-9ff2-eb1d9331cf7c"
+   revision="48058"/>
+<entry
+   committed-rev="48016"
+   name="textFixed.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="9bae305c44aa44dec47c8308f82610a3"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   name="rawData"
+   kind="dir"/>
+<entry
+   name="geoJson"
+   kind="dir"/>
+<entry
+   committed-rev="48016"
+   name="geoCoord.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="266e85bc4d5fa64100266da23e73fe92"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="params.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="db17c065456646e9f853d636094982e1"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+</wc-entries>

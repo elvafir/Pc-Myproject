@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="48016"
+   name=""
+   committed-date="2014-12-19T04:58:00.355769Z"
+   url="https://svn.baidu.com/sys/atm/branches/um/atm-276_BRANCH/resources/um_report/js/lib/ec/util"
+   last-author="huxiaoyun"
+   kind="dir"
+   uuid="12dec937-fb2f-40d7-9ff2-eb1d9331cf7c"
+   revision="48058"/>
+<entry
+   committed-rev="48016"
+   name="ecEffect.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="df082eed0144f57bc50646cd70998060"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   name="shape"
+   kind="dir"/>
+<entry
+   committed-rev="48016"
+   name="smartSteps.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="22e58fdafd378dc34918a38747f8d926"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="ecAnimation.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="b24cd55e7be34da7077f119193dedf8c"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="number.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="a6e25f879d181801b24a2dcaa9189d24"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="coordinates.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="2bbadb62d106c4df8e0b96f4bfddb3c3"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   name="mapData"
+   kind="dir"/>
+<entry
+   committed-rev="48016"
+   name="date.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="09ae1101ba4846728cd955bcd63fee86"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="ecQuery.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="beb1d3b47380e86213a5b8e8bb4127ee"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="kwargs.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="6095d356a81309d28f2e58ee4236dd4d"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="accMath.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="4d2c7a34f12dc70a77a18453f19809ce"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="ndarray.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="997ad3ac6a19d5d2bb201807f8198b11"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+<entry
+   name="projection"
+   kind="dir"/>
+<entry
+   committed-rev="48016"
+   name="ecData.js"
+   text-time="2014-12-22T06:02:17.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="bccf8c1b5ce7ef333161bb3af5108163"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:17.000000Z"/>
+</wc-entries>

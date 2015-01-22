@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="48016"
+   name=""
+   committed-date="2014-12-19T04:58:00.355769Z"
+   url="https://svn.baidu.com/sys/atm/branches/um/atm-276_BRANCH/resources/um_report/js/lib/ec/util/mapData/geoJson"
+   last-author="huxiaoyun"
+   kind="dir"
+   uuid="12dec937-fb2f-40d7-9ff2-eb1d9331cf7c"
+   revision="48058"/>
+<entry
+   committed-rev="48016"
+   name="fu_jian_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="005125ce13686a17077ac2db0c51c461"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="he_bei_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="df8214a97154dd37d934d90ed2097833"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="gan_su_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="938047007a60add02173556c0b484675"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="qing_hai_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="9cdc25038267a47ed203fab0e01c0ec5"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="shang_hai_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="ad65eab7f1bd35b44e30085021e14aaf"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="tai_wan_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="2f2d34a79bc82c888c6a6e2bbee3d552"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="china_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="781ea94e1cdb5dbb9172403691475124"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="jiang_xi_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="4390e10b5a0715f71ecefb62f43bb78d"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="si_chuan_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="3050af25ad1fdb5e6ce7fe1954cee829"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="tian_jin_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="5c056131b8a022a77520cf90330d2e6d"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="hu_bei_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="b3c5b178678ce2c146d8aa836e239c10"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="ning_xia_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="2f3a1a53d2d6796337a6d201bf697ea0"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="hei_long_jiang_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="f26df0891f73a33ce8f6531481c15fdd"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="hai_nan_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="7f2e9115eb63494419698e5539107727"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="ao_men_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="966cb4e034b722d806694446f1a7689c"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="liao_ning_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="9da6642563534c6598d6c8cec2be4761"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="jiang_su_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="2c860260df4ffe3c32bc5697f97ced99"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="guang_xi_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="0277cd095b5b0f57b9490c244daaad41"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="bei_jing_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="932e567463803540d531fee1aa196a75"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="xin_jiang_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="7fa14a999254a8a2695d620a2de235d5"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="shan_xi_2_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="652f161ee87d58500e30e37b819fde04"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="nei_meng_gu_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="662226d9d55fae3f8f6ea37001068250"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="chong_qing_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="ccbcad865adc1da8a3a9db4d772a39e7"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="world_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="ca49f35ac65bbc4fa782632c3279e54c"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="he_nan_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="45f30e589b591a7a21898130422bb95a"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="gui_zhou_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="c116f82839c62c5bd420030e906b15cf"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="zhe_jiang_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="a495a8985c93970afc8de0719203fcdc"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="xi_zang_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="adfa9503149da86093071705218c25b8"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="shan_dong_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="5368d9f843930511977eb38448d9c46f"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="xiang_gang_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="a4d4426471fb4ca905f966852b16066c"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="an_hui_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="a5c27560333d84b6348b6a615171d382"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="ji_lin_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="ff0e9c10240995663944fb392a57bf2b"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="yun_nan_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="9a50df3010dca3733759a0dc28fa32e5"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="guang_dong_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="f342e37dc554cf83cd95b02c20c89938"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="hu_nan_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="1252de1d3092f29e7db2c110ef61b93c"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+<entry
+   committed-rev="48016"
+   name="shan_xi_1_geo.js"
+   text-time="2014-12-22T06:02:16.000000Z"
+   committed-date="2014-12-19T04:58:00.355769Z"
+   checksum="5fc95545394e9ac4214f0db9d1324e5f"
+   last-author="huxiaoyun"
+   kind="file"
+   prop-time="2014-12-22T06:02:16.000000Z"/>
+</wc-entries>
