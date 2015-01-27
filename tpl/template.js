@@ -18,7 +18,32 @@ var template=
 	 					{{intro}}\
 	 				</div>\
 	 			</div>\
-	 			<div class="content_item_media">...</div>\
-	 			<div class="content_item_footer">...</div>\
-	 		</div>'
+	 			<div class="content_item_media">\
+	 				点点我看更多...<i class="i-bg"></i>\
+	 			</div>\
+	 		</div>',
+
+	"content_alert":"<div class='form Hide'>\
+          <div class='title'>\
+              <h3 class='subtitle'>记录前端点滴</h3>\
+              <button class='x-btn'>×</button>\
+          </div>\
+          <div class='main'>\
+              <h4 class='main-title'>今天学了神马：</h4>\
+              <div class='study'>\
+                {{study}}\
+              </div>\
+              <h4 class='main-title'>今天做了神马：</h4>\
+              <div class='done'>\
+               {{done}}\
+              </div>\
+              <h4 class='main-title'>来展现哈东东：</h4>\
+              <div class='show'>\
+                {{show}}\
+              </div>\
+          </div>\
+          <div class='footer'>\
+              <a class='closebtn'>Close</a>\
+          </div>\
+      </div>"
 }

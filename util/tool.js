@@ -88,8 +88,13 @@
 					}
 					contentobj['date']=dataobj[year][month][i].date;
 					contentobj['intro']=dataobj[year][month][i].intro;
+					contentobj['study']=dataobj[year][month][i].study;
+					contentobj['done']=dataobj[year][month][i].done;
 					var datetemplate=template.content_item;
+					var alertemplate=template.content_alert;
 					var viewcontent = Mustache.render(datetemplate, contentobj);
+					var alertcontent = Mustache.render(alertemplate, contentobj);
+					yearList.unshift(alertcontent); 
 					yearList.unshift(viewcontent); 
 					/*isFirst=false;*/
 				}

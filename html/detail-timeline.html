@@ -3,6 +3,7 @@
     <meta charset="utf-8">
     <title>拓扑展示</title>
     <link rel="stylesheet/less" type="text/css" href="../less/time-line.less">
+    <link rel="stylesheet/less" type="text/css" href="../less/alert.less">
     <script src="../lib/less.js" type="text/javascript"></script>
     <script type="text/javascript">
         less.watch();
@@ -21,7 +22,7 @@
 	 		<a href='#' class="scrubber_month">1月</a>
 	 		<a href='#' class="scrubber_month">2月</a> -->
 	 	</div>
-	 	<div class='content'>
+	 	<div class='content clearfix'>
 	 		<!-- <div class="content_year">2015</div>
 	 		<div class="content_month">1月</div>
 	 		<div class="content_item">
@@ -39,12 +40,14 @@
 	 					今天我学习了关于canvas的相关绘图的API
 	 				</div>
 	 			</div>
-	 			<div class="content_item_media">...</div>
-	 			<div class="content_item_footer">...</div>
+	 			<div class="content_item_media">
+	 				点点我看更多...<i class='i-bg'></i>
+	 			</div>
 	 		</div> -->
 	 	</div>
 	 </section>
 	 <script type="text/javascript" src="../lib/jquery.min.js"></script>
+	 <script type="text/javascript" src="../lib/mylib/Alert.js"></script>
 	 <script type="text/javascript" src="../js/mustache.js"></script>
 	 <script type="text/javascript" src="../tpl/template.js"></script>
 	 <script type="text/javascript" src="../data/data-timeline.js"></script>
@@ -52,5 +55,14 @@
 	 <script type="text/javascript">
 	 	var t= new Tool();
 	 	t.init(data);
+	 	$('div.content').on('click','div.content_item_media',function()
+	 	{
+	 		var _this=this;
+	 		var alertEle = $(_this).closest('div.content_item').next('div.form:first');
+	 		console.log(alertEle[0]);
+	 		var alert =new Alert({"alert":alertEle});
+     		alert.initAlert();
+	 	});
+
 	 </script>
 </body>
